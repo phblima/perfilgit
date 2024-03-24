@@ -2,10 +2,7 @@
 # perfilgit
 Configuração do perfil do github
 ### Olá !     ☁️
-- Atualmente exerço a função de .
-- Formado em .
-- Estudante de .
-- Estudo para ser um analista DevOps.
+
 
 <picture>
     <source
