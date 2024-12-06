@@ -1,4 +1,4 @@
--- Fiz essa configuração para configurar o perfil do git , e só copiar e fazer as alterações de acordo com seu emil , perfil do git , email e git lab. --
+-- Fiz essa configuração para configurar o perfil do git , e só copiar e fazer as alterações de acordo com seu perfil do git , email e git lab. --
 # perfilgit
 Configuração do perfil do github
 ### Olá !     ☁️
